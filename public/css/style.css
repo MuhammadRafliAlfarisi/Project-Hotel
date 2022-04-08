@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body{
+    font-family: 'Playfair Display', serif;
+    background-color: #170423;
+    color: white;
+}
+
+.img-header{
+    position: absolute;
+    z-index: -10;
+}
